@@ -1,0 +1,20 @@
+name: built_value_bug
+description: A new Flutter project.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  built_value: ^5.4.4
+  built_collection: ^3.1.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^0.8.9
+  built_value_generator: ^5.4.4
+
+
+flutter:
+  uses-material-design: true
